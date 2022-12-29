@@ -44,7 +44,7 @@ div.links a div {
   --scrollAmount: 0%;
   background-image: linear-gradient(120deg, #FF7721 0%, #11307e 100%);
   width: var(--scrollAmount);
-  height: 3px;
+  height: 4px;
   position: fixed;
   top: 0.2px;
   z-index: 100;
