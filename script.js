@@ -127,7 +127,7 @@ $(document).ready(function () {
     dots: false,
     infinite: true,
     autoplay: true,
-    speed: 100,
+    speed: 50,
     fade: true,
     prevArrow: false,
     nextArrow: false,
