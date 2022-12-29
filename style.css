@@ -1,20 +1,3 @@
-/* a div {
-  background-color: rgba(0, 0, 0, 0.133);
-} */
-
-#carasoul {
-  position: absolute;
-  top: 3365px;
-  left: 43px;
-}
-
-#carasoul2 {
-  position: absolute;
-  top: 2870px;
-  left: 68px;
-}
-
-
 body {
   background: #f0f2f5;
   padding: auto;
@@ -58,25 +41,10 @@ div.links a div {
 }
 
 
-.image-1 {
-
-  height: 215px;
-  width: 311px;
-
-}
-
-.image-2 {
-
-  height: 355px;
-  width: 259px;
-
-}
-
-
 /* progressbar */
 #progress-bar {
   --scrollAmount: 0%;
-  background-image: linear-gradient(120deg, #FF7721 0%, #fff52d 100%);
+  background-image: linear-gradient(120deg, #FF7721 0%, #11307e 100%);
   width: var(--scrollAmount);
   height: 3px;
   position: fixed;
